@@ -31,6 +31,7 @@ For a visual representation of the project in action, check out the [Video Demo]
 
    ```bash
    git clone https://github.com/duongve13112002/AutoPlaying.git
+   cd AutoPlaying
    ```
 
 2. Install dependencies:
