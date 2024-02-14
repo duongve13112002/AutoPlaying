@@ -22,8 +22,8 @@ For a visual representation of the project in action, check out the [Video Demo]
 
 ### Prerequisites
 
+- Python 3.x.
 - Install the required dependencies listed in `requirements.txt`.
-- Ensure you have the game (GTA SAN) installed on your system.
 
 ### Setup
 
